@@ -1,7 +1,6 @@
 # Advanced Smart Home Automation System using ESP32 & Blynk 🏠⚡
 
-Modular ESP32 smart home automation project using 4-channel relay and Blynk mobile app.
-# Advanced Smart Home Automation System using ESP32 & Blynk 🏠⚡  
+Modular ESP32 smart home automation project using 4-channel relay and Blynk mobile app.  
 Control your home with scalable IoT architecture.
 
 This project implements an **advanced smart home automation system** using an **ESP32**, a **4-channel relay module**, and the **Blynk IoT mobile application**.
